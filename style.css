@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: aliceblue;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.img-poster{
+    margin-top: 10px;
+    width: 300pt;
+    border: 5px solid white;
+}
+.jetha{
+    color: rgb(255, 251, 251);
+    text-align: center;
+    /* width: 50%;
+    margin-left:25%;
+    margin-top: 100px; */
+    font-family: "Libre Baskerville", serif;
+}
+.iyer{
+    color: white;
+    text-align: center;
+    font-family:"Libre Baskerville", serif;
+}
+.iyer-poster{
+    margin-top: 30px;
+    width: 300pt;
+    border: 5px solid white;
+}
